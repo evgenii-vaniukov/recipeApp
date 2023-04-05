@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "e1a52cc068b117c4d4494c4a52002e58014df0f88d3fc5ed9be12b7b046adc43"
+build_start_time: [1676364755, 270565986]
+build_end_time: [1676364755, 325214862]
+inputs:
+  "/Users/evgenii.vanukov/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.1.3/macos/Classes/SharedPreferencesPlugin.swift": !private [1675801530, 190508365]
+  "/Users/evgenii.vanukov/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.1.3/macos/Classes/messages.g.swift": !private [1675801530, 186475753]

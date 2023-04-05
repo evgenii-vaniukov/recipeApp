@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "f6f6eaea17fdfc83a8a591b91147edce1cb5a8a11f9556c10bdccdb69de4a91b"
+build_start_time: [1679435170, 8469104]
+build_end_time: [1679435172, 766457080]
+inputs:
+  "/Users/evgenii.vanukov/GitHub/recipeApp/macos/Flutter/GeneratedPluginRegistrant.swift": [1679435161, 919682025]
+  "/Users/evgenii.vanukov/GitHub/recipeApp/macos/Runner/AppDelegate.swift": [1666541880, 487553119]
+  "/Users/evgenii.vanukov/GitHub/recipeApp/macos/Runner/MainFlutterWindow.swift": [1666541880, 490313053]

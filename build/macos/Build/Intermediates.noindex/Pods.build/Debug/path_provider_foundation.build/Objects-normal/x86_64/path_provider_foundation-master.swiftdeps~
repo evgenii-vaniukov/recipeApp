@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "0853a40d98d78384f50585540443def58e9113b67ff4f8187eb9479a98e24bdf"
+build_start_time: [1676364755, 270529031]
+build_end_time: [1676364755, 325268983]
+inputs:
+  "/Users/evgenii.vanukov/.pub-cache/hosted/pub.dev/path_provider_foundation-2.1.1/macos/Classes/PathProviderPlugin.swift": !private [1675801530, 376629829]
+  "/Users/evgenii.vanukov/.pub-cache/hosted/pub.dev/path_provider_foundation-2.1.1/macos/Classes/messages.g.swift": !private [1675801530, 378365039]
