@@ -22,11 +22,11 @@ class AppCache {
 
   Future<bool> isUserLoggedIn() async {
     final prefs = await SharedPreferences.getInstance();
-    return prefs.getBool(kUser) ?? false;
+    return prefs.getBool(kUser) ?? true;
   }
 
   Future<bool> didCompleteOnboarding() async {
     final prefs = await SharedPreferences.getInstance();
-    return prefs.getBool(kOnboarding) ?? false;
+    return prefs.getBool(kOnboarding) ?? true;
   }
 }
